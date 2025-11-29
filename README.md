@@ -78,7 +78,5 @@ Here are some ideas to get you started:
 
 Si deseas conversar, colaborar o revisar proyectos:
 
-* ✉️ **Email:** *(agrega tu correo aquí si quieres)*
-* 🐙 **GitHub:** *este mismo perfil*
-
----
+* ✉️ **Email:** *(cristofer.rdiaz@outlook.com)*
+* 🐙 **LinkedIn:** (https://www.linkedin.com/in/cristofer-ricardo-d%C3%ADaz-alfaro-1a532b349/)[Cristofer Diaz]
