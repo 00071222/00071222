@@ -1,83 +1,134 @@
-## Hi there 👋
+# 💻 Hi, I'm Cristofer Ricardo Díaz Alfaro 👋
 
-<!--
-**00071222/00071222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### **Computer Engineering Student | Full-Stack Developer | University Instructor**
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
-# 💻 Cristofer Ricardo Díaz Alfaro
-
-### **Estudiante de Ingeniería en la UCA El Salvador | Desarrollador Full-Stack | Entusiasta de Hardware & Software Tech**
-
-¡Hola! Soy **Cristofer Ricardo Díaz Alfaro**, estudiante de la **Universidad Centroamericana José Simeón Cañas (UCA)** en El Salvador. Me apasiona entender cómo funcionan las cosas: desde el **hardware** hasta el **software**, explorando tecnologías modernas para crear soluciones eficientes, escalables y bien pensadas.
+Hi! I'm **Cristofer Ricardo Díaz Alfaro**, a **Computer Engineering student** at **Universidad Centroamericana José Simeón Cañas (UCA)** in El Salvador.  
+I'm passionate about understanding how technology works end-to-end from **hardware fundamentals** to **software architecture**, focusing on building **clean, maintainable, and scalable solutions**.
 
 ---
 
-## 🚀 Sobre mí
+## 🚀 About Me
 
-* 🌎 **Idiomas:** Español (nativo) e Inglés (intermedio-avanzado)
-* 💻 **Áreas de interés:**
-
-  * Desarrollo full-stack
-  * Arquitecturas modernas
-  * Hardware, electrónica y computación
-  * Diseño de aplicaciones con buenas prácticas
-* 🎯 Me encanta aprender y mantenerme actualizado en tecnología.
-
----
-
-## 🛠️ Tecnologías que utilizo
-
-### **🔷 Full-Stack / Web Development**
-
-* **MERN Stack** (MongoDB, Express, React, Node.js)
-* **React** (Hooks, Zustand, NextUI, consumir APIs)
-* **Typescript** (tipado estricto, clean code)
-
-### **🔶 Backend**
-
-* **Node.js**
-* **Express**
-* **Spring Boot** (Java)
-* **APIs REST**
-
-### **🗄️ Bases de Datos**
-
-* MongoDB
-* MySQL / PostgreSQL
-* SQL básico
-
-### **⚙️ Otros**
-
-* Git & GitHub
-* Docker (conceptos)
-* Buenas prácticas y patrones comunes
+- 🌎 **Languages:** Spanish (Native), English (Intermediate–Advanced)
+- 🧠 **Interests:**
+  - Full-Stack Web Development
+  - Backend & API Design
+  - Software Quality & Testing
+  - System Architecture & Best Practices
+  - Hardware & Computing Technologies
+- 🎯 Strong interest in **learning, documentation, and continuous improvement**
 
 ---
 
-## 📚 Formación
+## 🧑‍🏫 Professional Experience
 
-* 🎓 **Estudiante de Ingeniería**
-  **Universidad Centroamericana José Simeón Cañas — UCA, El Salvador**
+### **University Instructor**  
+📍 *Universidad Centroamericana José Simeón Cañas (UCA)*  
+🗓️ March 2025 – November 2025  
+
+- Created academic guides and laboratory manuals aligned with the course curriculum
+- Led and coordinated a team of instructors
+- Organized and facilitated planning and coordination meetings
+- Managed academic tracking and laboratory evaluations
 
 ---
 
-## 📬 Contacto
+### **Frontend Developer – Virtual Museum Project (35th Anniversary)**  
+📍 *Department of Communications & Culture – UCA*  
+🗓️ January 2025 – March 2025  
 
-Si deseas conversar, colaborar o revisar proyectos:
+- Frontend development of a web-based institutional project
+- Worked under **Scrum methodology** (planning, follow-ups, retrospectives)
+- Participated in project analysis and requirements gathering
+- Produced technical and functional documentation
 
-* ✉️ **Email:** *cristofer.rdiaz@outlook.com*
-* 🐙 **LinkedIn:** [Cristofer Diaz](https://www.linkedin.com/in/cristofer-ricardo-d%C3%ADaz-alfaro-1a532b349/)
+---
 
+### **Full-Stack Developer – School Reinforcement Platform**  
+📍 *UCA*  
+🗓️ February 2024 – May 2024  
+
+- Implemented interfaces, main workflows, and backend endpoints
+- Performed requirements analysis and translated them into technical solutions
+- Documented system flows and key processes
+- Configured and deployed the application on **OVH Cloud**
+
+---
+
+### **Web Designer / Developer & SEO**  
+📍 *Juridikos El Salvador*  
+🗓️ November 2023 – January 2024  
+
+- Designed UI/UX-oriented web views
+- Participated in website development and integration
+- Implemented basic **SEO strategies** to improve structure and visibility
+
+---
+
+## 🛠️ Tech Stack
+
+### **Frontend**
+- React.js, Next.js
+- TypeScript, JavaScript
+
+### **Backend**
+- Node.js, Express.js
+- Spring Boot (Java)
+- RESTful APIs
+
+### **Databases**
+- MongoDB
+- PostgreSQL, MySQL
+- SQL Server
+
+### Mobile
+- Kotlin
+- React Native (In progress)
+
+### **Quality Assurance**
+- Manual Testing
+- Postman
+- Cypress (In progress)
+- Test case documentation
+
+### Business Intelligence
+- Power BI
+
+### **Tools & Infrastructure**
+- Git & GitHub
+- Docker & Docker Compose
+- NGINX, Apache
+- OVH Cloud, Railway
+- Termius
+
+---
+
+## 🎓 Education
+
+🎓 **Computer Engineering**  
+Universidad Centroamericana José Simeón Cañas (UCA)  
+*2022 – Present*
+
+---
+
+## 🏆 Achievements & Certifications
+- 🥈 2nd Place (National) — IEEE Xtreme 18.0 2024 Competitive Programming Contest
+- TOEIC (Listening, Reading, Written, Speaking)
+- Microsoft Technology Associate
+  *Introduction to Programming using JavaScript*
+- Microsoft Office Specialist  
+  *Excel 2016*
+
+---
+
+## 📫 Contact
+
+Feel free to reach out for collaboration, projects, or discussions:
+
+- ✉️ **Email:** cristofer.rdiaz@outlook.com  
+- 💼 **LinkedIn:** [Cristofer Ricardo Díaz Alfaro](https://www.linkedin.com/in/cristofer-ricardo-d%C3%ADaz-alfaro-1a532b349/)  
+- 💻 **GitHub:** https://github.com/00071222
+
+---
+
+⭐ *Always open to learning, improving, and building impactful software.*
